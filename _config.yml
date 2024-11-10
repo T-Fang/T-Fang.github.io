@@ -10,7 +10,7 @@ email: tianfang@nus.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Fang Tian.
 footer_text: >
-keywords: NUS, National University of Singapore, AI, ML  # add your own keywords or leave empty
+keywords: NUS, National University of Singapore, AI, ML # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
