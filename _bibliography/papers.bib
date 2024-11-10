@@ -1,6 +1,22 @@
 ---
 ---
 
+
+@article{Tianchu2024DELSSOME,
+  title={Optimizing Biophysically-Plausible Large-Scale Circuit Models With Deep Neural Networks},
+  author={Zeng*, Tianchu and Tian*, Fang and Zhang, Shaoshi and Deco, Gustavo and Satterthwaite, Theodore D. and Holmes, Avram and Yeo, B.T. Thomas},
+  abstract={Biophysically plausible large-circuit models provide valuable mechanistic insights into neural dynamics. However, setting up a model involves numerous free parameters, which are often manually set, leading to assumptions that may not align with biological plausibility. In contrast, optimizing these parameters results in more biologically plausible models. Previous papers have shown that spatially heterogeneous parameters improve the model performance in generating realistic neural dynamics. Prior works have employed iterative forward simulations via Euler integration to optimize the parameters, which require solving ordinary differential equations (ODE) for all regions simultaneously and each time step sequentially. This process poses a computational hurdle for an efficient model inversion. To tackle this problem, we propose DELSSOME (Deep Learning for Surrogate Statistics Optimization in Mean Field Modeling), which integrates deep learning models into neural mass model framework to circumvent the need to solve ODEs. These deep learning models are designed to learn surrogate statistics, which directly provide outputs required for optimization, from the input local circuit parameters. Our experiments demonstrate that our approach leads to a remarkable 500,000% speed-up of parameter optimization process compared to the traditional approach while achieving comparable performances. Moreover, our approach successfully replicates previous findings on excitation-inhibition ratio changes related to neurodevelopment and cognition. Overall, our results suggest the efficiency and broader applicability of the proposed approach in uncovering intricate neural dynamics.},
+  year={2024},
+  pdf={DELSSOME.pdf},
+  preview={DELSSOME_preview.png},
+  annotation={* equal contribution},
+  selected={true}
+}
+
+/**
+  Sample papers.bib file below
+ */
+
 @string{aps = {American Physical Society,}}
 
 @book{einstein1920relativity,

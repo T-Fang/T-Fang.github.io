@@ -1,3 +1,29 @@
+"zeng":
+  - firstname: ["Tianchu", "T."]
+    url: https://www.linkedin.com/in/tianchu-zeng-31a16926a/
+
+"zhang":
+  - firstname: ["Shaoshi", "S."]
+    url: https://scholar.google.com/citations?user=UjadXKMAAAAJ
+
+"deco":
+  - firstname: ["Gustavo", "G."]
+    url: https://scholar.google.com/citations?user=xMh3uN8AAAAJ
+
+"satterthwaite":
+  - firstname: ["Theodore", "T.", "Theodore D."]
+    url: https://scholar.google.com/citations?user=E9pynwoAAAAJ
+
+"holmes":
+  - firstname: ["Avram", "A."]
+    url: https://scholar.google.com/citations?user=EhyhJkwAAAAJ
+
+"yeo":
+  - firstname: ["Thomas", "T.", "B.T. Thomas"]
+    url: https://scholar.google.com/citations?user=BOUzsU8AAAAJ
+
+# Sample coauthors below
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
