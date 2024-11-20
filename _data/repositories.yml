@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - T-Fang
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - T-Fang/ECG_XAI
+  - T-Fang/pMFM_speedup
+  - T-Fang/Storyteller
+  - T-Fang/Ocean-Peggle
+  - T-Fang/Lunaris
+  - T-Fang/Membrance
+  - T-Fang/Slotify

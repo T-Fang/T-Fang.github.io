@@ -22,6 +22,18 @@
   - firstname: ["Thomas", "T.", "B.T. Thomas"]
     url: https://scholar.google.com/citations?user=BOUzsU8AAAAJ
 
+"lim":
+  - firstname: ["Brian", "Brian Y."]
+    url: https://scholar.google.com/citations?user=_bza0AoAAAAJ
+
+"bai":
+  - firstname: ["Jingwen", "J."]
+    url: https://jackwensen.github.io/
+
+"chen":
+  - firstname: ["Haoyang", "H."]
+    url: https://haoyang-chen.github.io/
+
 # Sample coauthors below
 
 "adams":
