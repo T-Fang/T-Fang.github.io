@@ -28,17 +28,23 @@
   "work": [
     {
       "name": "Center for Translational Magnetic Resonance Research (TMR), National University of Singapore",
-      "position": "Research Assistant",
+      "position": "Research Assistant (Supervisor: Prof. B.T. Thomas Yeo)",
       "url": "https://medicine.nus.edu.sg/tmr/the-team/",
       "startDate": "2023-08-16",
       "endDate": "Now",
-      "summary": "Analyze fMRI data with statistical/computational/machine learning models, and manage our center's research informatics and infrastructure",
-      "highlights": ["Machine Learning", "Neural Mass Model", "Normative Model", "Docker"]
+      "summary": "Responsibility: analyze  functional magnetic resonance imaging (fMRI) data using statistical, computational, and machine learning models; manage our center's research informatics system and High-Performance Computing (HPC) infrastructure",
+      "highlights": [
+        "• Conducted experiments to improve the Mean Field Model (MFM), a computational model for simulating and understanding human brain dynamics.",
+        "• Currently developing a generalized additive model (GAM) to investigate how the E/I ratio, a key indicator of brain health estimated by the MFM, evolves across the human lifespan.",
+        "• Containerized our fMRI preprocessing pipeline with Docker and Singularity for cross-platform consistency.",
+        "• Developed an automated tool that generates intuitive MRI reports, helping patients compare their brain condition to others of the same age (expected to be used in a large hospital serving millions annually)",
+        "• Maintaining the website and server of XNAT, the platform that manages and stores our MRI imaging data."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Sunbeam Place",
+      "organization": "Sunbeam Place, Singapore",
       "location": "Singapore",
       "position": "Tutor",
       "url": "https://www.childrensociety.org.sg/flying-high-with-the-help-of-sunbeam-place",
@@ -52,7 +58,7 @@
       "institution": "National University of Singapore",
       "location": "Singapore",
       "url": "/assets/pdf/BSc_Degree_with_Transcript.pdf",
-      "area": "Focus Area: Distinction in Artificial Intelligence, Specialization: Multimedia Modelling",
+      "area": "",
       "studyType": "Bachelor of Science (Applied Mathematics) with Merit",
       "startDate": "2019-08-05",
       "endDate": "2023-06-30",
@@ -63,7 +69,7 @@
       "institution": "National University of Singapore",
       "location": "Singapore",
       "url": "/assets/pdf/BComp_Degree_with_Transcript.pdf",
-      "area": "",
+      "area": "Focus Area: Distinction in Artificial Intelligence, Double Degree Programmes Specialisation: Multimedia Modelling",
       "studyType": "Bachelor of Computing (Computer Science) with Honours (Highest Distinction)",
       "startDate": "2019-08-05",
       "endDate": "2023-06-30",
@@ -81,50 +87,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [

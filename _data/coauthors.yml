@@ -10,6 +10,14 @@
   - firstname: ["Gustavo", "G."]
     url: https://scholar.google.com/citations?user=xMh3uN8AAAAJ
 
+"larsen":
+  - firstname: ["Bart", "B."]
+    url: https://scholar.google.com/citations?user=GEPAHz4AAAAJ
+
+"tan":
+  - firstname: ["Ai Peng", "A."]
+    url: https://scholar.google.com/citations?user=see9jiYAAAAJ
+
 "satterthwaite":
   - firstname: ["Theodore", "T.", "Theodore D."]
     url: https://scholar.google.com/citations?user=E9pynwoAAAAJ
