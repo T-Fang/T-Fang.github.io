@@ -7,12 +7,7 @@ importance: 2
 category: Apps and Tools
 ---
 
-# WottleNFT
-
-<div class="row justify-content-center">
-    <!-- <div class="d-flex justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/8s6AXX16T6Q?si=6GXO8HVwsSTW1JGP" title="WottleNFT Promotion Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div> -->
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/8s6AXX16T6Q?si=6GXO8HVwsSTW1JGP" title="WottleNFT Promotion Video" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
@@ -21,9 +16,13 @@ category: Apps and Tools
     WottleNFT Promotion Video
 </div>
 
-Promotional Video URL: https://youtu.be/8s6AXX16T6Q
-
 # Description
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/WottleNFT/WottleNFT_thumbnail.gif" title="WottleNFT" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 WottleNFT, a student-initiated startup, is a Cardano NFT marketplace. It serves as a platform for collectors of NFTs on the Cardano blockchain to trade their NFTs efficiently and with low transaction costs. It also boasts an easy-to-use NFT minting page, where users may mint their very own NFT on the Cardano blockchain straight from the browser.
 
@@ -55,6 +54,8 @@ WottleNFT will first focus on building an amazing marketplace. Afterwhich, we ai
 
 WottleNFT wants to make Cardano NFT as easy and as accessible to everyone. As such, we have implemented a whole new in-browser experience that offers the lowest minting service fee in the market. Mint 1 Cardano NFT for 1 ADA in just under 1 Minute with our very own Nami Wallet enabled NFT-minter.
 
+_For detailed technical report of this project, please visit the [GitHub Repository](https://github.com/T-Fang/WottleNFT)._
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/WottleNFT/WottleNFT_poster.png" title="WottleNFT Poster" class="img-fluid rounded z-depth-1" %}
@@ -63,25 +64,3 @@ WottleNFT wants to make Cardano NFT as easy and as accessible to everyone. As su
 <div class="caption">
     WottleNFT Poster
 </div>
-
-a research internship project at <a href="https://scholar.google.com/citations?user=BOUzsU8AAAAJ">Prof. B.T. Thomas Yeo</a>'s <a href="https://sites.google.com/view/yeolab">lab</a> at the <a href="https://nus.edu.sg/">National University of Singapore</a>. The goal of this project is to leverage machine learning and deep learning to accelerate the parameter optimization process for the mean-field model(MFM), or more precisely parametric MFM (pMFM).
-
-The <a href="https://www.nature.com/articles/s41467-021-26704-y">pMFM</a> is a computational model of human brains that simulates brain activities through an ordinary differential equation (ODE) system to produce realistic functional MRI (fMRI) signals. The model is used to study the dynamics of brain activity and to understand how different brain regions communicate with each other.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pMFM_speedup/pMFM_Fig1A.jpg" title="Illustration of the pMFM" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Illustration of the pMFM, for more details, please refer to the original <a href="https://www.nature.com/articles/s41467-021-26704-y">paper</a>
-</div>
-
-The original pMFM's parameter optimization process utilizes Euler integration to numerically solve the ODE system, which can be computationally expensive to run. Therefore, I aim to speed up the parameter optimization process by using machine learning techniques to predict the MFM parameters' performances without the need to solve ODEs. Specifically, I performed the following tasks:
-
-1. Generated a synthetic dataset of pMFM parameters and their corresponding performance.
-2. Validated two assumptions.
-3. Explored different machine learning models to predict the pMFM parameters' performances.
-4. Explored various optimization techniques such as Covariance matrix adaptation evolution strategy (CMA-ES) and Gradient Descent
-
-In the end, I have demonstrated the feasibility of using machine learning to accelerate the pMFM parameter optimization process. This project has led to a paper {% cite Zeng2024DELSSOME %} that we are currently preparing for submission to _Nature Methods_. For more details of this project, please visit the [GitHub repository](https://github.com/T-Fang/pMFM_speedup/tree/main?tab=readme-ov-file).

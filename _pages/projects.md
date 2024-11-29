@@ -5,8 +5,8 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [Research Projects, Apps and Tools, Games, Other Projects]
-horizontal: false
+display_categories: [Research Projects, Apps and Tools, Games]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
