@@ -1,6 +1,6 @@
 {% assign extension = include.path | split: '.' | last %}
 
-<figure>
+<figure class="embed-container">
   {% if extension == 'mp4' or extension == 'webm' or extension == 'ogg' %}
     <video
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
@@ -64,12 +64,12 @@
       {% if include.width %}
         width="{{ include.width }}"
       {% else %}
-        width="auto"
+        width="100%"
       {% endif %}
       {% if include.height %}
         height="{{ include.height }}"
       {% else %}
-        height="auto"
+        height="100%"
       {% endif %}
       {% if include['min-width'] %}
         min-width="{{ include.min-width }}"

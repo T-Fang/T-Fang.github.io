@@ -34,7 +34,7 @@
       "endDate": "Now",
       "summary": "Responsibility: analyze  functional magnetic resonance imaging (fMRI) data using statistical, computational, and machine learning models; manage our center's research informatics system and High-Performance Computing (HPC) infrastructure",
       "highlights": [
-        "• Conducted experiments to improve the Mean Field Model (MFM), a computational model for simulating and understanding human brain dynamics.",
+        "• Conducted experiments to improve the mean-field model (MFM), a computational model for simulating and understanding human brain dynamics.",
         "• Currently developing a generalized additive model (GAM) to investigate how the E/I ratio, a key indicator of brain health estimated by the MFM, evolves across the human lifespan.",
         "• Containerized our fMRI preprocessing pipeline with Docker and Singularity for cross-platform consistency.",
         "• Developed an automated tool that generates intuitive MRI reports, helping patients compare their brain condition to others of the same age (expected to be used in a large hospital serving millions annually)",
