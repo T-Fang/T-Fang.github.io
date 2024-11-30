@@ -3,7 +3,7 @@ layout: page
 title: Storyteller
 description: A storyboard app that helps filmmakers plan their shot
 img: assets/img/projects/Storyteller/Storyteller_thumbnail.png
-importance: 2
+importance: 3
 category: Apps and Tools
 ---
 
@@ -32,7 +32,7 @@ In addition to leadership, I served as the core developer, focusing on the app's
   - Rotate and scale shots temporarily for better drawing experience
   - Set custom background color
 
-Among these features, layer management posed the greatest challenge due to its complex interactions between layers and the canvas, particularly when grouping was involved. I implemented an elegant solution using a combination of the Composite and Visitor design patterns, enabling robust and flexible layer interactions.
+Among these features, layer management posed the greatest challenge due to its complex interactions between layers and the canvas, particularly when grouping was involved. I implemented an elegant solution using a combination of the [Composite](https://refactoring.guru/design-patterns/composite) and [Visitor](https://refactoring.guru/design-patterns/visitor) design patterns, enabling robust and flexible layer interactions.
 
 For more detailed technical reports, please visit the [GitHub Repository](https://github.com/T-Fang/Storyteller).
 

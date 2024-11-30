@@ -3,7 +3,7 @@ layout: page
 title: Lunaris
 description: a native iOS client for NUS’s course management system (LumiNUS)
 img: assets/img/projects/Lunaris/Lunaris_thumbnail.png
-importance: 3
+importance: 4
 category: Apps and Tools
 ---
 

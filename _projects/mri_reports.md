@@ -11,7 +11,7 @@ _The tool is currently in the pilot phase, with plans to incorporate more data v
 
 This is a commercial project for a large Chinese hospital serving millions of patients annually. The goal of this project is to develop an automated tool that generates user-friendly magnetic resonance imaging (MRI) reports. These reports provide patients with intuitive visualizations, such as percentile rankings for cortical thickness, allowing them to easily compare their brain health with normative data for their age group. By simplifying complex MRI data, the tool aims to enhance patient understanding and engagement in their healthcare.
 
-The reports are generated in PDF format, which can be easily shared with patients and other healthcare providers. Sample MRI reports in both [English](../../assets/pdf/projects/MRI_Reports/MRI_Reports_en_US.pdf) and [Chinese](../../assets/pdf/projects/MRI_Reports/MRI_Reports_zh_CN.pdf) are provided, with previews available below.
+The reports are generated in PDF format, which can be easily shared with patients and other healthcare providers. Sample MRI reports in both [English](/assets/pdf/projects/MRI_Reports/MRI_Reports_en_US.pdf) and [Chinese](/assets/pdf/projects/MRI_Reports/MRI_Reports_zh_CN.pdf) are provided, with previews available below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

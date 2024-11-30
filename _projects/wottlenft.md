@@ -3,7 +3,7 @@ layout: page
 title: WottleNFT
 description: a sustainable NFT Marketplace built on the Cardano Blockchain
 img: assets/img/projects/WottleNFT/WottleNFT_thumbnail.gif
-importance: 2
+importance: 3
 category: Apps and Tools
 ---
 
